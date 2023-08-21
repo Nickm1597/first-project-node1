@@ -10,5 +10,10 @@
     "Nod"
   ],
   "author": "Anaconda123",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Nickm1597/first-project-node1"
+  }
+  
+
 }
